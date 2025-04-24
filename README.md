@@ -35,7 +35,3 @@ The application manages the following entities:
 2. Ensure you have .NET 9.0 SDK installed
 3. Update the connection string in `appsettings.json` if necessary
 4. Run the application using `dotnet run`
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE). 
